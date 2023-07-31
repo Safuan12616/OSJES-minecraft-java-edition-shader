@@ -14,3 +14,16 @@ Open Source Java Edition Shader <br>
 - ### [Changelog](https://github.com/Safuan12616/OSJES-minecraft-java-edition-shader/blob/main/.github/docs/CHANGELOG.md)
 - ### [Contributing](https://github.com/Safuan12616/OSJES-minecraft-java-edition-shader/blob/main/.github/docs/CONTRIBUTING.md)
 - ### [Code of Conduct](https://github.com/Safuan12616/OSJES-minecraft-java-edition-shader/blob/main/.github/docs/CODE_OF_CONDUCT.md)
+
+## REQUIREMENTS
+- Minecraft Java Edition 1.7.10 or above.
+- Optifine or Iris (Latest version recommended).
+- *To be tested.*
+
+## INSTALLATION
+- Download and install [Optifine](https://www.optifine.net/home) or [Iris](https://irisshaders.dev/).
+- Download the shaderpack
+- Put the shaderpack inside .minecraft\shaderpacks
+- Launch Minecraft
+- Open Options, Video Settings, Shaders
+- Choose OSJES.
